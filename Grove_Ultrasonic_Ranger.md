@@ -4,6 +4,8 @@ This Grove - Ultrasonic sensor is a non-contact distance measurement module whic
 
 [![Get one now](https://raw.githubusercontent.com/SeeedDocument/Grove_Ultrasonic_Ranger/master/image/150px-Get_One_Now_Banner.png)](https://www.seeedstudio.com/item_detail.html?p_id=960)
 
+![](https://raw.githubusercontent.com/SeeedDocument/Grove_Ultrasonic_Ranger/master/image/350px-Ultrasonic_Ranger.jpg)
+
 ### Specification
 
 |Parameter|	Value/Range|
