@@ -138,7 +138,9 @@ void loop() {
 **With**[  Raspberry Pi](http://www.seeedstudio.com/wiki/GrovePi%2B)
 
 First step,you should connect Ultrasonic to Port D4. Run the program below. It will print distance information on you terminal,as the figure below. 
+
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove_Ultrasonic_Ranger/master/image/GrovePi%2B_Ultrasonic_Ranger_Sensor.jpg)
+
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove_Ultrasonic_Ranger/master/image/600px-GrovePi%2B_Ultrasonic_Ranger_Sensor_terminal.jpg)
 ```Javascript
 # GrovePi + Grove Ultrasonic Ranger
@@ -201,6 +203,7 @@ This is an IoT demo make by Seeeduino and  [   Grove](http://www.seeedstudio.com
 Our artist Shihui Wang recently showed me her another amazing work of art: the Colour Helix. Again with few simple components she presented us the beauty of the combination of art and electronics.
 
 With a Grove - Ultrasonic Ranger she can magically control the number of illuminated LEDs inside the Helix by raising or lower her palm in the air.
+
 [![](https://raw.githubusercontent.com/SeeedDocument/Grove_Ultrasonic_Ranger/master/image/200px-Wiki_makeitnow_logo.png)](http://www.seeed.cc/project_detail.html?id=138)
 
 ## Resources
