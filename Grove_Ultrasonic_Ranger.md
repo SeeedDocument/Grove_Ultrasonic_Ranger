@@ -1,11 +1,11 @@
 # Grove - Ultrasonic Ranger
-***
+
 This Grove - Ultrasonic sensor is a non-contact distance measurement module which works at 42KHz, suitable for projects that require middle distance measurement.
 
 [![Get one now](https://raw.githubusercontent.com/SeeedDocument/Grove_Ultrasonic_Ranger/master/image/150px-Get_One_Now_Banner.png)](https://www.seeedstudio.com/item_detail.html?p_id=960)
 
 ### Specification
-***
+
 |Parameter|	Value/Range|
 |:------|:------------------|
 |Operating voltage|	3.3~5V|
@@ -16,7 +16,7 @@ This Grove - Ultrasonic sensor is a non-contact distance measurement module whic
 |Output|	PWM|
 
 ## Getting Started
-***
+
 Connect Serial LCD to D4/D5 pins of Grove - Base Shield and connect Ultrasonic Ranger to D7.
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove_Ultrasonic_Ranger/master/image/600px-UltrasonicRanger.png)
 
@@ -200,7 +200,7 @@ With a Grove - Ultrasonic Ranger she can magically control the number of illumin
 [![](https://raw.githubusercontent.com/SeeedDocument/Grove_Ultrasonic_Ranger/master/image/200px-Wiki_makeitnow_logo.png)](http://www.seeed.cc/project_detail.html?id=138)
 
 ## Resources
-***
+
 - [Ultrasonic Ranger library](https://github.com/SeeedDocument/Grove_Ultrasonic_Ranger/blob/master/resource/Ultrasonic.zip)
 - [Video demonstration](http://v.youku.com/v_show/id_XMzEzNTcwODI4.html)
 - [Github repository for Grove_Ultrasonic_Ranger Library (new)](https://github.com/Seeed-Studio/Grove_Ultrasonic_Ranger)
