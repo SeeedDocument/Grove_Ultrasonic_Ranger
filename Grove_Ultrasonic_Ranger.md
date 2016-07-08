@@ -69,6 +69,7 @@ Also we shot a video about it. Find it in the Resources! It can give you a more 
 Sensing the Distance (Ultrasonic Ranger Sensor)
 
 This example shows how to measure the distance to obstacles using the ultrasonic sensor and display the value on a 4-Digital-Display (centimeters).
+
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove_Ultrasonic_Ranger/master/image/600px-Ultrasonic.jpg)
 ```Javascript
 /*
