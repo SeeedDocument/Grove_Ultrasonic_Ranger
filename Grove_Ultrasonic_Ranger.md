@@ -6,7 +6,7 @@ This Grove - Ultrasonic sensor is a non-contact distance measurement module whic
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove_Ultrasonic_Ranger/master/image/350px-Ultrasonic_Ranger.jpg)
 
-### Specification
+## Specification
 
 |Parameter|	Value/Range|
 |:------|:------------------|
@@ -20,6 +20,7 @@ This Grove - Ultrasonic sensor is a non-contact distance measurement module whic
 ## Getting Started
 
 Connect Serial LCD to D4/D5 pins of Grove - Base Shield and connect Ultrasonic Ranger to D7.
+
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove_Ultrasonic_Ranger/master/image/600px-UltrasonicRanger.png)
 
 Download the  [ UltrasonicRanger Library](https://github.com/Seeed-Studio/Grove_Ultrasonic_Ranger) and  [  SerialLCD Library](https://github.com/Seeed-Studio/Serial_LCD) from Github. For this libraries, rather than from Arduino library files, they are from other pages. You need to install them to Arduino Library. Please refer to the course"How to install library" of wiki page to learn the specific steps.
