@@ -213,3 +213,6 @@ With a Grove - Ultrasonic Ranger she can magically control the number of illumin
 - [Github repository for Grove_Ultrasonic_Ranger Library (new)](https://github.com/Seeed-Studio/Grove_Ultrasonic_Ranger)
 - [SerialLCD Library](https://github.com/Seeed-Studio/Serial_LCD)
 - [Suli-compatible Library](http://www.seeedstudio.com/wiki/Suli)
+
+## Is this page helpful
+<iframe style="height: 600px; width: 500px; margin: 10px 0 10px;" allowTransparency="true" src="https://www.surveymonkey.com/r/GJ82Y22" frameborder="0"></iframe>
